@@ -20,9 +20,25 @@
 
 
 ## 📊 GitHub Profile Summary Cards
+<h2>📊 GitHub Profile Summary Cards</h2>
 
-![Profile Details](https://raw.githubusercontent.com/rushikushare/rushikushare/main/profile-summary-card-output/default/0-profile-details.svg)
-![Top Languages](https://raw.githubusercontent.com/rushikushare/rushikushare/main/profile-summary-card-output/default/1-repos-per-language.svg)
-![Languages by Commit](https://raw.githubusercontent.com/rushikushare/rushikushare/main/profile-summary-card-output/default/2-most-commit-language.svg)
-![Stats](https://raw.githubusercontent.com/rushikushare/rushikushare/main/profile-summary-card-output/default/3-stats.svg)
-![Streak](https://raw.githubusercontent.com/rushikushare/rushikushare/main/profile-summary-card-output/default/4-productive-time.svg)
+<p>
+  <img src="https://raw.githubusercontent.com/rushikushare/rushikushare/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/rushikushare/rushikushare/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Top Languages" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/rushikushare/rushikushare/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most Used Languages by Commit" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/rushikushare/rushikushare/main/profile-summary-card-output/default/3-stats.svg" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/rushikushare/rushikushare/main/profile-summary-card-output/default/4-productive-time.svg" alt="Productive Time" />
+</p>
+
