@@ -1,44 +1,45 @@
-<h1 align="center">Hi 👋, I'm Rushikesh Kushare</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h1 >Hi 👋, I’m Rushikesh Kushare</h1>
+<h3 >A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on **Fullstack**
-
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **Java Fullstack and Mern**
-
-- 📫 How to reach me **rushikeshkushare123@gmail**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rushikesh kushare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rushikesh kushare" height="30" width="40" /></a>
-<a href="https://fb.com/rushikesh kushare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rushikesh kushare" height="30" width="40" /></a>
+<p >
+  🔭 I’m currently working on <strong>Fullstack</strong><br>
+  🌱 I’m currently learning <strong>Next.js</strong><br>
+  💬 Ask me about <strong>Java Fullstack & MERN</strong><br>
+  📫 How to reach me: <strong>rushikeshkushare123@gmail.com</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+### 📫 Connect with me:
+<p >
+  <a href="https://linkedin.com/in/rushikeshkushare" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
+  </a>
+  <a href="https://github.com/rushikushare" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" />
+  </a>
+  <a href="https://facebook.com/rushikeshkushare" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Facebook" width="40" />
+  </a>
+</p>
+
+
+---
+
+### 🛠 Languages & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,mysql,java,spring,docker,kubernetes,git,github,linux,postman,tailwind&theme=dark" />
+</p>
+
+
+---
 
 ## 📊 GitHub Profile Summary Cards
-<h2>📊 GitHub Profile Summary Cards</h2>
-
-<p>
-  <img src="https://raw.githubusercontent.com/rushikushare/rushikushare/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rushikushare&theme=dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rushikushare&theme=dark" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rushikushare&theme=dark" alt="Most Used Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rushikushare&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rushikushare&theme=dark&utcOffset=8" alt="Productive Time" />
 </p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/rushikushare/rushikushare/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Top Languages" />
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/rushikushare/rushikushare/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most Used Languages by Commit" />
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/rushikushare/rushikushare/main/profile-summary-card-output/default/3-stats.svg" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/rushikushare/rushikushare/main/profile-summary-card-output/default/4-productive-time.svg" alt="Productive Time" />
-</p>
-
